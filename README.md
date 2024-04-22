@@ -1,3 +1,5 @@
+#Chuẩn hóa
+-NF2 yêu cầu mỗi mối quan hệ trong cơ sở dữ liệu phải đạt được NF1 (Normal Form 1) và không có phụ thuộc giữa các cặp thuộc tính không phải là khóa chính (transitive dependencies)
 # Try Out Development Containers: PHP
 
 [![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/microsoft/vscode-remote-try-php)
